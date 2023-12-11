@@ -1,7 +1,5 @@
 use std::collections::HashMap;
 
-
-
 fn main() {
     println!("{}", prime_factors(7775460));
 }
